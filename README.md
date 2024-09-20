@@ -1,4 +1,6 @@
  This project memory maps a file to memory and accesses it to perform different operations, as needed.
+ Serves as a replacement for a subset of the std::fstream class from the C++ standard template library.
+ 
  #mmap_fstream.h : Header file that holds declarations and comments about functionality of each function
  #mmap_fstream.cc : Source file that holds implementation for all functions in the corresponding header file
  
